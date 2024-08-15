@@ -12,7 +12,7 @@ This is a Spotify clone created using the following technologies:
 
 The Spotify Clone is hosted on Netlify. You can access it using the following link:
 
-[Spotify Clone]()
+[Spotify Clone](https://sonali-spotify-api.netlify.app)
 
 ## About the Developer
 
