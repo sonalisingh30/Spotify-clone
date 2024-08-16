@@ -24,7 +24,7 @@ The Spotify Clone is hosted on Netlify. You can access it using the following li
 
 
 [Responsive ]
-<img width="50" alt="Responsive" src="https://github.com/user-attachments/assets/e93dd0dc-2856-4d2c-a86e-958d01a88d27">
+<img width="50%" alt="Responsive" src="https://github.com/user-attachments/assets/e93dd0dc-2856-4d2c-a86e-958d01a88d27">
 
 ## About the Developer
 
